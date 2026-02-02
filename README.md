@@ -6,7 +6,7 @@
 
 ---
 
-###  Tech Stack
+### Tech Stack
 
 **Backend & Dados:**
 <br>
@@ -14,25 +14,19 @@
 
 **Ferramentas:**
 <br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux&theme=light" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=light" />
 
 ---
 
-###  Análises e Métricas
+###  Análises
 
 <div align="left">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davi-Silva-Developer&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide_border=true" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Silva-Developer&layout=compact&langs_count=6&theme=buefy&hide_border=true" />
-
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Davi-Silva-Developer&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide_border=true" />
+  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Silva-Developer&layout=compact&langs_count=6&theme=buefy&hide_border=true" />
 </div>
 
 <br>
-
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Davi-Silva-Developer&theme=buefy&hide_border=true" alt="Streak Stats" />
-</div>
 
 ---
 
