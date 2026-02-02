@@ -1,16 +1,3 @@
-Entendido. Se o banner anterior falhou, vamos para uma abordagem mais garantida e moderna.
-
-Neste modelo:
-
-Nome em Texto Puro: Para garantir que seu nome sempre apareça, usamos um título padrão do GitHub (H1). Não tem erro de carregamento.
-
-Muitos Gráficos: Adicionei, além das linguagens, um gráfico de "Streak" (dias seguidos programando) que é muito usado por profissionais para mostrar constância.
-
-Visual Dark/Clean: Tema escuro, sério, sem cores extravagantes.
-
-Copie e cole este código no seu README.md:
-
-Markdown
 # Olá, eu sou Davi Silva 👋
 
 <a href="https://git.io/typing-svg">
