@@ -43,7 +43,7 @@ https://github.com/Davi-Silva-Developer/Dashboard-Mercado-Dados
 API REST para gerenciamento de tarefas, com validações e organização em camadas.  
 **Tecnologias:** Java, Spring Boot, JPA, MySQL  
 🔗 Repositório:  
-*(adicione aqui quando quiser)*
+https://github.com/Davi-Silva-Developer/To_Do_List
 
 ---
 
@@ -67,5 +67,3 @@ API REST para gerenciamento de tarefas, com validações e organização em cama
 </a>
 
 ---
-
-<img src="https://komarev.com/ghpvc/?username=Davi-Silva-Developer&style=flat-square&color=blue" alt="profile views"/>
