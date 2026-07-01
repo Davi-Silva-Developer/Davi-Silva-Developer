@@ -1,61 +1,46 @@
-#  Olá, eu sou Davi Silva
+# Olá, eu sou Davi Silva 
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=500&size=20&duration=3000&pause=1000&color=333333&center=false&vCenter=false&width=500&lines=Desenvolvedor+Backend+Java;Spring+Boot+%7C+APIs+REST+%7C+SQL;Estudante+de+ADS+%7C+Buscando+est%C3%A1gio+em+Backend" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=500&size=20&duration=3000&pause=1000&color=333333&center=false&vCenter=false&width=500&lines=Desenvolvedor+Backend+Java+%26+Kotlin;Spring+Boot+%7C+APIs+REST+%7C+SQL;Estagi%C3%A1rio+de+Suporte+%7C+Foco+em+Backend" alt="Typing SVG" />
 </a>
 
 ---
 
 ##  Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** com foco em
-**desenvolvimento backend utilizando Java e Spring Boot**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** com foco total em engenharia de software backend, utilizando principalmente o ecossistema **Java e Spring Boot**.
 
-Tenho experiência em **projetos acadêmicos e pessoais**, desenvolvendo **APIs REST**, trabalhando com **bancos de dados SQL** e aplicando conceitos de **Programação Orientada a Objetos (POO)** e boas práticas de organização de código.
-
- Atualmente busco uma **oportunidade de estágio em desenvolvimento backend** para evoluir tecnicamente e contribuir em projetos reais.
+* 🛠 **Atuação Atual:** Trabalho como **Estagiário de Suporte Técnico**, onde aplico conceitos de banco de dados (consultas SQL, auditoria) e análise de regras de negócio em sistemas corporativos de produção.
+* 💻 **Desenvolvimento:** Construo **APIs REST** robustas aplicando boas práticas de design, arquitetura em camadas, tratamento global de exceções e validações de dado.
+* 🎯 **Objetivo:** Evoluir continuamente minhas habilidades técnicas e buscar uma oportunidade de **Estágio em Desenvolvimento Backend** para contribuir na criação de sistemas scaláveis.
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Backend & Banco de Dados
+<img src="https://skillicons.dev/icons?i=java,spring,kotlin,mysql,postgres&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,postgres,mysql&theme=light" />
-
-### Frontend (conhecimento básico)
-
-<img src="https://skillicons.dev/icons?i=html,css&theme=light" />
-
-### Ferramentas de Desenvolvimento
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=light" />
+### Ferramentas & Boas Práticas
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,maven&theme=dark" />
 
 ---
 
 ##  Projetos em Destaque
 
-###  Dashboard de Análise Salarial
-
-Projeto voltado à **análise de dados do mercado de trabalho**, com visualização e processamento de informações salariais.
-
-**Tecnologias utilizadas:**
-Java • Spring Boot • PostgreSQL • Python
-
-🔗 Repositório
-https://github.com/Davi-Silva-Developer/Dashboard-Mercado-Dados
+### ☕ To-Do List API
+API REST completa para gerenciamento de tarefas cotidianas, focada em segurança e boas práticas de arquitetura.
+* **O que foi feito:** Endpoints CRUD estruturados in camadas, tratamento global de exceções, validações com Bean Validation e segurança com criptografia de senhas (BCrypt).
+* **Tecnologias:** Java • Spring Boot • Spring Data JPA • Hibernate • MySQL • Git
+* 🔗 [Acessar Repositório](https://github.com/Davi-Silva-Developer/To_Do_List)
 
 ---
 
-###  ToDo List API
-
-API REST para **gerenciamento de tarefas**, com arquitetura organizada em camadas e validações.
-
-**Tecnologias utilizadas:**
-Java • Spring Boot • JPA • MySQL
-
- Repositório
-https://github.com/Davi-Silva-Developer/To_Do_List
+### 🏦 ByteBank API
+Evolução de um sistema bancário tradicional para uma API REST estruturada, aplicando conceitos de POO aplicados a regras de negócio financeiras.
+* **O que foi feito:** Mapeamento de entidades, persistência de dados e regras de negócio robustas simulando operações bancárias através do ecossistema Spring.
+* **Tecnologias:** Java • Spring Boot • Spring Data JPA • MySQL • Git
+* 🔗 [Acessar Repositório](https://github.com/Davi-Silva-Developer/Bytebank-API-SpringBoot)
 
 ---
 
@@ -68,7 +53,7 @@ https://github.com/Davi-Silva-Developer/To_Do_List
 
 ---
 
-##  Contato
+## ✉️ Vamos nos conectar?
 
 <a href="https://www.linkedin.com/in/davi-silva-dev/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Davi%20Silva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -80,4 +65,4 @@ https://github.com/Davi-Silva-Developer/To_Do_List
 
 ---
 
- Sempre aberto para aprender novas tecnologias e colaborar em projetos.
+⚡ *Movido a café, lógica e a busca constante por código limpo.*
