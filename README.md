@@ -65,4 +65,4 @@ Evolução de um sistema bancário tradicional para uma API REST estruturada, ap
 
 ---
 
-⚡ *Movido a café, lógica e a busca constante por código limpo.*
+⚡ *Movido a café, lógica e a busca constante por conhecimento.*
