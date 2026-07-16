@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=500&size=20&duration=3000&pause=1000&color=333333&center=false&vCenter=false&width=500&lines=Desenvolvedor+Backend+Java;Spring+Boot+%7C+APIs+REST+%7C+SQL;Estagi%C3%A1rio+de+Suporte+%7C+Foco+em+Backend" alt="Typing SVG" />
 </a>
 
-📍 Montes Claros - MG · Disponível para mudança ao Rio de Janeiro a partir de janeiro/2027
+📍 Montes Claros - MG · Disponível para mudança ao Rio de Janeiro
 
 ---
 
